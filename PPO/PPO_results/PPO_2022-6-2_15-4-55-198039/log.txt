@@ -1,0 +1,24 @@
+Saved the agent to C:\Users\taimo\Desktop\ppo_and_rnd_multi_env_run\PPO\PPO_results/PPO_2022-6-2_15-4-55-198039\trained_models\50928_checkpoint
+839
+number of battles and steps| Cumlative:839, 50928 , This step:839, 50928
+win rate: 0.5017878426698451
+total_step:50928, total_time/total_step: 0.00914095669769086
+cum time: 489.6041871,collect_time: 0.554863698092968 , total_collect_time: 465.53064270000016
+train_time: 24.00977389999997
+
+Saved the agent to C:\Users\taimo\Desktop\ppo_and_rnd_multi_env_run\PPO\PPO_results/PPO_2022-6-2_15-4-55-198039\trained_models\101875_checkpoint
+861
+number of battles and steps| Cumlative:1700, 101875 , This step:861, 50947
+win rate: 0.51
+total_step:50947, total_time/total_step: 0.008880689367381778
+cum time: 965.7368231,collect_time: 0.5254872023228797 , total_collect_time: 452.4444811999995
+train_time: 23.61546050000004
+
+Saved the agent to C:\Users\taimo\Desktop\ppo_and_rnd_multi_env_run\PPO\PPO_results/PPO_2022-6-2_15-4-55-198039\trained_models\152783_checkpoint
+848
+number of battles and steps| Cumlative:2548, 152783 , This step:848, 50908
+win rate: 0.5086342229199372
+total_step:50908, total_time/total_step: 0.008819107493910617
+cum time: 1439.4245733,collect_time: 0.5294376465801907 , total_collect_time: 448.9631243000017
+train_time: 24.65575230000013
+

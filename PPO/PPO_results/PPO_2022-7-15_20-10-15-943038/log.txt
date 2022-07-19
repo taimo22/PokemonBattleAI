@@ -1,0 +1,40 @@
+Saved the agent to c:\Users\taimo\Desktop\SeniorThesis\PPO\PPO_results/PPO_2022-7-15_20-10-15-943038\trained_models\50930_checkpoint
+840
+number of battles and steps| Cumlative:840, 50930 , This step:840, 50930
+win rate: 0.5011904761904762
+total_step:50930, total_time/total_step: 0.009270879778126845
+cum time: 495.7856168,collect_time: 0.5621022703571431 , total_collect_time: 472.16590710000025
+train_time: 23.558512399999984
+
+Saved the agent to c:\Users\taimo\Desktop\SeniorThesis\PPO\PPO_results/PPO_2022-7-15_20-10-15-943038\trained_models\101954_checkpoint
+863
+number of battles and steps| Cumlative:1703, 101954 , This step:863, 51024
+win rate: 0.48854961832061067
+total_step:51024, total_time/total_step: 0.008736503361163404
+cum time: 965.3482624999999,collect_time: 0.5165369032444977 , total_collect_time: 445.7713475000016
+train_time: 23.721577799999977
+
+Saved the agent to c:\Users\taimo\Desktop\SeniorThesis\PPO\PPO_results/PPO_2022-7-15_20-10-15-943038\trained_models\152847_checkpoint
+843
+number of battles and steps| Cumlative:2546, 152847 , This step:843, 50893
+win rate: 0.4831107619795758
+total_step:50893, total_time/total_step: 0.008881236867545649
+cum time: 1443.3345284,collect_time: 0.5361717531435358 , total_collect_time: 451.99278790000074
+train_time: 25.928295200000093
+
+Saved the agent to c:\Users\taimo\Desktop\SeniorThesis\PPO\PPO_results/PPO_2022-7-15_20-10-15-943038\trained_models\203773_checkpoint
+851
+number of battles and steps| Cumlative:3397, 203773 , This step:851, 50926
+win rate: 0.4919046217250515
+total_step:50926, total_time/total_step: 0.008975797912657594
+cum time: 1925.2750557,collect_time: 0.5371345293772041 , total_collect_time: 457.10148450000065
+train_time: 24.7739567000001
+
+Saved the agent to c:\Users\taimo\Desktop\SeniorThesis\PPO\PPO_results/PPO_2022-7-15_20-10-15-943038\trained_models\254749_checkpoint
+854
+number of battles and steps| Cumlative:4251, 254749 , This step:854, 50976
+win rate: 0.4951776052693484
+total_step:50976, total_time/total_step: 0.009168417894695476
+cum time: 2419.1570543000003,collect_time: 0.5472708086651014 , total_collect_time: 467.3692705999965
+train_time: 26.445972999999867
+
